@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: yourdockerhubusername/user-management-node-mongo:latest
+        image: srihari03/user-management-node-mongo:latest
         ports:
         - containerPort: 3000
         env:
