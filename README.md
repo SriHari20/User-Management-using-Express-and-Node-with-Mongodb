@@ -21,7 +21,8 @@ Contributions are welcome! If you'd like to contribute to this project, please c
 # License
 This project is licensed under the MIT license. See the LICENSE file for more details.
 
-#DockerFile
+**#DockerFile**
+Added dockerfile to build image
 
 # Technologies used
 * This project was built using <strong>Node.js and Express</strong>, two popular open-source technologies for building web applications with JavaScript.
